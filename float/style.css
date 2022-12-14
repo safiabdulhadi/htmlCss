@@ -1,0 +1,8 @@
+.float{
+    float: right;
+}
+.float li {
+    float: right;
+    display: inline-block;
+    margin: 3px;
+}
